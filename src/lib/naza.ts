@@ -16,7 +16,7 @@ export const NAZA_GLOBAL = {
   latest: 1,
   peak: 1,
   peakDate: "10 בספטמבר",
-  points: 96,
+  points: 94,
   top10Countries: 0,
   firstPlaces: 2,
 };
@@ -171,7 +171,7 @@ const PATCH: Record<string, Patch> = {
     mixed: 20,
     negative: 14,
     confidence: "estimated",
-    note: "הערכה לפי סיקור פסטיבל אירופי. אין דירוג סטרימינג.",
+    note: "פרס קהל בסן סבסטיאן (26.9, Best European Film) לפי ויקיפדיה. אין דירוג סטרימינג.",
   },
   NL: {
     ranks: [null, 7, 7, 6, 6, 6],
