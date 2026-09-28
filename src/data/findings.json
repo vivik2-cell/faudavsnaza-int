@@ -1,1 +1,42 @@
-PLACEHOLDER
+[
+  {
+    "id": "w1-2026-09",
+    "week": 1,
+    "from": "9.9",
+    "to": "14.9",
+    "version": 24,
+    "at": "2026-09-14T21:00:00+03:00",
+    "he": "שבוע הפתיחה. שיא עולמי #4. בשיא 57 מדינות בטופ 10 לפחות יום אחד; ישראל ולבנון במקום 1. Netflix: 2.1M צפיות, 15.9M שעות.",
+    "en": "Opening week. Worldwide peak #4. 57 countries in the top 10 at least one day; Israel and Lebanon at #1. Netflix: 2.1M views, 15.9M hours."
+  },
+  {
+    "id": "w2-2026-09",
+    "week": 2,
+    "from": "15.9",
+    "to": "18.9",
+    "version": 40,
+    "at": "2026-09-20T16:31:00+03:00",
+    "he": "השבוע השני נשמר ליד הראשון. עולמי ירד ל-#12 · 28 מדינות ב-18.9 · 109 נקודות. מאוריציוס וקלדוניה החדשה נוספו. ישראל ולבנון עדיין #1.",
+    "en": "Week 2 sits beside week 1. Worldwide down to #12 · 28 countries on 18 Sep · 109 points. Mauritius and New Caledonia added. Israel and Lebanon still #1."
+  },
+  {
+    "id": "w2-graph-2026-09-20",
+    "week": 2,
+    "from": "14.9",
+    "to": "20.9",
+    "version": 42,
+    "at": "2026-09-20T19:32:00+03:00",
+    "he": "גרף FlixPatrol 14–20 בספטמבר: הנקודות ירדו מ־253 ל־62. דירוג ממוצע מ־#6 ל־#8. 19–20 בספטמבר נוספו בלי למחוק את ימי 9–18.",
+    "en": "FlixPatrol graph 14–20 September: points fell from 253 to 62. Average rank from #6 to #8. 19–20 September added without deleting 9–18."
+  },
+  {
+    "id": "w3-2026-09-28",
+    "week": 3,
+    "from": "21.9",
+    "to": "28.9",
+    "version": 43,
+    "at": "2026-09-28T21:14:33+03:00",
+    "he": "סריקה שבועית 28.9: FlixPatrol חסום ב־Cloudflare — דירוגי פאודה הקיימים (ימים 9–18.9, גרף נקודות 14–20.9, עולמי אחרון #12 · 62 נק׳ · 28 מדינות) נשמרו בלי דריסה. ויקיפדיה NAZA (עדכון 28.9): Metacritic 94/100 מ־15 מבקרים (באתר היה 96); Rotten Tomatoes 100% מ־23 ביקורות (ממוצע 9.1); נוספו פרסי ונציה נלווים, פרס קהל בסן סבסטיאן (26.9), ו־NYFF 64. ויקיפדיה מציינת יציאה אמריקאית ב־30.9 מול יציאה מוגבלת 9.10 באתר — לא דרסנו. שיח קיים נשמר.",
+    "en": "Weekly scan 28 Sep: FlixPatrol blocked by Cloudflare — existing Fauda ranks (days 9–18 Sep, points chart 14–20 Sep, last worldwide #12 · 62 pts · 28 countries) kept, not overwritten. NAZA Wikipedia (28 Sep update): Metacritic 94/100 from 15 critics (site had 96); Rotten Tomatoes 100% from 23 reviews (avg 9.1); added Venice collateral awards, San Sebastián Audience Award (26 Sep), and 64th NYFF. Wikipedia cites a U.S. release on 30 Sep vs the site’s limited 9 Oct — left unchanged. Prior discourse kept."
+  }
+]
